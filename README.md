@@ -56,6 +56,10 @@ Contributions, suggestions, and improvements are welcome! Feel free to open issu
 
 ---
 
+Demo use - https://indiatourismbyrishabh.netlify.app
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
