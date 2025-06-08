@@ -50,6 +50,16 @@ This project offers an intuitive user interface to discover major regions and po
 
 ---
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/79f8699c-5027-44ba-a703-ae83d8eb06f4)
+![image](https://github.com/user-attachments/assets/f8f6a16f-f83f-4cfd-b1b7-1e3447150c24)
+![image](https://github.com/user-attachments/assets/56216b64-1167-4aaf-99ab-7581a395fc57)
+![image](https://github.com/user-attachments/assets/08d69311-b72c-49b4-bf25-63de2cafa451)
+![image](https://github.com/user-attachments/assets/ee4092ca-bdb6-444d-838d-7c6371b9e400)
+
+---
+
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome! Feel free to open issues or submit pull requests.
